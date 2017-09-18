@@ -1,4 +1,3 @@
-print"王裕民"
 print"  #  #  #                         #     #                          "
 print"  # ### #                          #   #                 #         "
 print"  # # # #                           # #                            "
