@@ -23,7 +23,7 @@
 ![55b](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/55b.png)
 * 落地点距离差约为*170m*
 ### 结论
-* 重力加速度会影响炮弹的轨迹使炮弹射程更远，但是对轨迹的整体影响非常小，且在一定范围内，发射角度越大影响越大
+* 重力加速度会影响炮弹的轨迹使炮弹射程更远，但是对轨迹的整体影响非常小，且在一定角度范围内，发射角度越大影响越大
 ### 源代码材料
 * [material_05](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/cannon.py)
 ## 尝试使用pygame做一个游戏
