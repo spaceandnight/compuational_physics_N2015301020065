@@ -1,5 +1,5 @@
 # 第五次作业
 ## 选做课后习题2.8
 * question: In our model of the cannon shell trajectory we have assumed that the acceleration due to gravity, *g*, is a constant. It will, of course, depend on altitude. Add this to the model and calculate how much it affects the range.
-
+* 在模拟大炮射击时，取初速度*v=700.0m/s*，地球表面的重力加速度*g=9.8m/s<sup>2</sup>*，地球半径*R
 ## 尝试使用pygame做一个游戏
