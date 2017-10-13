@@ -13,7 +13,7 @@
 * 35度角发射炮弹轨迹图及落地点放大图
 ![35a](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/35a.png)
 ![35b](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/35b.png)
-* 落地点距离差约为*82m*
+* 落地点距离差约为*80m*
 * 45度角发射炮弹轨迹图及落地点放大图
 ![45a](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/45a.png)
 ![45b](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/45b.png)
