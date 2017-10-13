@@ -27,3 +27,8 @@
 ### 源代码材料
 * [material_05](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/cannon.py)
 ## 尝试使用pygame做一个游戏
+* 一个简单的小游戏，红色小方块代表炮弹，按空格键可以发射，←↓→↑键分别可以把发射角度变更为30度、45度、60度、75度，初始发射角为45度
+* 演示图
+![cannongame](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/EV2.gif)
+* 源代码材料
+[material_sp1](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/gamecannon.py)
