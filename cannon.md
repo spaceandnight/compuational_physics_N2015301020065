@@ -10,5 +10,20 @@
 * <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{dv_{y}}{dt}=-g\rightarrow&space;v_{y,i&plus;1}=v_{y,i}-g\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{dv_{y}}{dt}=-g\rightarrow&space;v_{y,i&plus;1}=v_{y,i}-g\Delta&space;t" title="\frac{dv_{y}}{dt}=-g\rightarrow v_{y,i+1}=v_{y,i}-g\Delta t" /></a>
 ### 绘制曲线
 * 取不同的发射角度，绘制大炮炮弹曲线，比较重力加速度为常数和重力加速度随海拔高度变化两种情况下对大炮炮弹轨迹的影响
-
+* 35度角发射炮弹轨迹图及落地点放大图
+![35a](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/35a.png)
+![35b](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/35b.png)
+* 落地点距离差约为*82m*
+* 45度角发射炮弹轨迹图及落地点放大图
+![45a](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/45a.png)
+![45b](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/45b.png)
+* 落地点距离差约为*130m*
+* 55度角发射炮弹轨迹图及落地点放大图
+![55a](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/55a.png)
+![55b](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/55b.png)
+* 落地点距离差约为*170m*
+### 结论
+* 重力加速度会影响炮弹的轨迹使炮弹射程更远，但是对轨迹的整体影响非常小，且在一定范围内，发射角度越大影响越大
+### 源代码材料
+* [material_05](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/cannon.py)
 ## 尝试使用pygame做一个游戏
