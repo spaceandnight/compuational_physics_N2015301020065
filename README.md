@@ -5,4 +5,4 @@
 - [x] [exercise_04](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/question12.md)
 - [x] [exercise_05](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/cannon.md)
 - [ ] [exercise_06](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/backspin%20ball.md)
-- [ ] [middle](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/middle.md)
+- [ ] [middle_test](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/middle.md)
