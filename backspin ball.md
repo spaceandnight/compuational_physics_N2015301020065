@@ -12,7 +12,7 @@
 * <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{B_{2}}{m}=0.0039&plus;\frac{0.0058}{1&plus;exp((v-35)/5)}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{B_{2}}{m}=0.0039&plus;\frac{0.0058}{1&plus;exp((v-35)/5)}" title="\frac{B_{2}}{m}=0.0039+\frac{0.0058}{1+exp((v-35)/5)}" /></a>
 ### 绘制曲线
 * 将无旋球和下旋球的轨迹曲线放在一起进行比较， 分析下旋对棒球轨迹的影响.
-* ![back](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/backspin.png)
+![back](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/backspin.png)
 * 显然下旋球轨迹比无旋球轨迹更高一些，落地点也更远一些，两条轨迹的区别在曲线的下落段最明显.
 ### 结论
 * 在两种轨迹比较图图中我们可以看到虽然两种球轨迹有明显区别，但是两者的整体轨迹相差不大.
