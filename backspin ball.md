@@ -9,7 +9,7 @@
 * <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{dy}{dt}=v_{y}\rightarrow&space;y_{i&plus;1}=y_{i}&plus;v_{y,i}\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{dy}{dt}=v_{y}\rightarrow&space;y_{i&plus;1}=y_{i}&plus;v_{y,i}\Delta&space;t" title="\frac{dy}{dt}=v_{y}\rightarrow y_{i+1}=y_{i}+v_{y,i}\Delta t" /></a>
 * <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{dv_{y}}{dt}=-g-\frac{B_{2}}{m}vv_{y}&plus;\frac{S_{0}}{m}v_{x}w\rightarrow&space;v_{y,i&plus;1}=v_{y,i}-g\Delta&space;t-\frac{B_{2}}{m}v_{i}v_{y,i}\Delta&space;t&plus;\frac{S_{0}}{m}v_{x,i}w\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{dv_{y}}{dt}=-g-\frac{B_{2}}{m}vv_{y}&plus;\frac{S_{0}}{m}v_{x}w\rightarrow&space;v_{y,i&plus;1}=v_{y,i}-g\Delta&space;t-\frac{B_{2}}{m}v_{i}v_{y,i}\Delta&space;t&plus;\frac{S_{0}}{m}v_{x,i}w\Delta&space;t" title="\frac{dv_{y}}{dt}=-g-\frac{B_{2}}{m}vv_{y}+\frac{S_{0}}{m}v_{x}w\rightarrow v_{y,i+1}=v_{y,i}-g\Delta t-\frac{B_{2}}{m}v_{i}v_{y,i}\Delta t+\frac{S_{0}}{m}v_{x,i}w\Delta t" /></a>
 * 其中S<sub>0</sub>/m=0.00041,B<sub>2</sub>/m的值由下式给出.
-
+* <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{B_{2}}{m}=0.0039&plus;\frac{0.0058}{1&plus;exp((v-35)/5)}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{B_{2}}{m}=0.0039&plus;\frac{0.0058}{1&plus;exp((v-35)/5)}" title="\frac{B_{2}}{m}=0.0039+\frac{0.0058}{1+exp((v-35)/5)}" /></a>
 ### 绘制曲线
 * 将无旋球和下旋球的轨迹曲线放在一起进行比较， 分析下旋对棒球轨迹的影响.
 * ![back](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/backspin.png)
