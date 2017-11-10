@@ -7,4 +7,5 @@
 - [x] [exercise_06](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/backspin%20ball.md)
 - [x] [exercise_07](http://note.youdao.com/noteshare?id=e01e4f4d376283eaa9645423e744eaa6)
 - [x] [exercise_08](http://note.youdao.com/noteshare?id=0edbc34f67f2534254ae0046ad7b2cca)
+- [x] [exercise_09](http://note.youdao.com/noteshare?id=c237cabb9cf12387a363fffd8a535eff)
 - [ ] [middle_test](https://github.com/spaceandnight/compuational_physics_N2015301020065/blob/master/middle.md)
