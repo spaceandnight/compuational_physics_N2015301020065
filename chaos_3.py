@@ -47,7 +47,7 @@ class billiard_circle():
             y = y + vy_c*self.dt
         return x-vx_c*self.dt,y-vy_c*self.dt    
     def reflect1(self,x,y,vx,vy):
-        module = np.sqrt(x**2+(y - 0.01)**2)  ### normalization
+        module = np.sqrt(x**2+(y - 0.01)**2)
         x = x/module
         y = (y- 0.01)/module+ 0.01
         v = np.sqrt(vx**2+vy**2)
@@ -60,7 +60,7 @@ class billiard_circle():
         return vx_n,vy_n
     
     def reflect2(self,x,y,vx,vy):
-        module = np.sqrt(x**2+(y+ 0.01)**2)  ### normalization
+        module = np.sqrt(x**2+(y+ 0.01)**2)
         x = x/module
         y = (y+ 0.01)/module- 0.01
         v = np.sqrt(vx**2+vy**2)
@@ -81,7 +81,6 @@ class billiard_circle():
         plt.title('Stadium billiard $\\alpha$=0.01')
         self.plot_boundary()
         plt.plot(self.x,self.y,'r')
-        #plt.savefig('chapter3_3.31.png',dpi = 144)
         plt.show()
                 
     def plot_boundary(self):
