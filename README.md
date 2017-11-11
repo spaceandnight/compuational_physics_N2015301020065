@@ -8,4 +8,4 @@
 - [x] [exercise_07](http://note.youdao.com/noteshare?id=e01e4f4d376283eaa9645423e744eaa6)
 - [x] [exercise_08](http://note.youdao.com/noteshare?id=0edbc34f67f2534254ae0046ad7b2cca)
 - [x] [exercise_09](http://note.youdao.com/noteshare?id=c237cabb9cf12387a363fffd8a535eff)
-- [ ] [middle_test](http://note.youdao.com/noteshare?id=6ba61355e905695c55b684d9ffa97775)
+- [x] [middle_test](http://note.youdao.com/noteshare?id=6ba61355e905695c55b684d9ffa97775)
